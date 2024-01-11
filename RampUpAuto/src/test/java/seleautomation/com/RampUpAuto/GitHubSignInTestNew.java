@@ -8,7 +8,7 @@ import org.testng.annotations.*;
 import java.lang.reflect.Method;
 
 
-public class GitHubSignInTest {
+public class GitHubSignInTestNew {
     WebDriver driver;
     GitHubSignInPage gitHubSignInPage;
 
