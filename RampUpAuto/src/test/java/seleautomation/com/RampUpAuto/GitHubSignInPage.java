@@ -1,4 +1,4 @@
-package seleautomation.com.RampUpAuto;
+package RampUpAuto.src.test.java.seleautomation.com.RampUpAuto;
 
 import org.openqa.selenium.By;
 
